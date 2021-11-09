@@ -10,7 +10,7 @@ style = "https://raw.githubusercontent.com/wemake-services/wemake-python-stylegu
 [tool.poetry]
 name = "pravda"
 description = "Python type-checker written in Rust"
-version = "0.1.0"
+version = "0.0.0"
 license = "MIT"
 
 authors = []
